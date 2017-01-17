@@ -1,6 +1,6 @@
 {
     "name": "retentive-memory",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Herb Brill <hwbrill@brill6pak.com>",
     "license": "MIT",
     "description": "Develop code to use the EEPROM firmware of the PHOTON and ELECTRON
